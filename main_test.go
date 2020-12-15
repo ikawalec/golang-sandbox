@@ -7,5 +7,5 @@ import (
 )
 
 func TestSample(t *testing.T) {
-	require.Equal(t, 1, 1)
+	require.Equal(t, "hello", Hello())
 }
