@@ -7,7 +7,3 @@ import (
 func main() {
 	fmt.Println("main")
 }
-
-func Unused() {
-
-}
